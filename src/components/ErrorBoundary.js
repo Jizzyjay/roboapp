@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+/*import React, { Component } from 'react';
 
 class ErrorBoundary extends Component {
     constructor(props) {
@@ -24,15 +24,4 @@ render() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-export default ErrorBoundary;
+export default ErrorBoundary; */
